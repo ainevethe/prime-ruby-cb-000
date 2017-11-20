@@ -10,5 +10,6 @@ def prime?(integer)
       is_prime = return false
     elsif integer <= 1
       return false
+    end
   end
 end
