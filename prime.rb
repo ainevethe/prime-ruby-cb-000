@@ -7,6 +7,6 @@ def prime?(integer)
 
   for i in 2..integer - 1
     if integer % i == 0
-      is_prime = return false
+      is_prime == false
   end
 end
